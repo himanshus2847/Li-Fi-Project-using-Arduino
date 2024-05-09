@@ -1,0 +1,11 @@
+{
+  "additionalFiles": "..\\..\\..,..\\..\\..",
+  "builtInToolsFolders": "",
+  "compiler.optimization_flags": "",
+  "customBuildProperties": "",
+  "fqbn": "arduino:avr:uno",
+  "hardwareFolders": "C:\\Users\\amanp\\AppData\\Local\\Arduino15\\packages,C:\\Users\\amanp\\Documents\\Arduino\\hardware",
+  "otherLibrariesFolders": "C:\\Users\\amanp\\Documents\\Arduino\\libraries",
+  "runtime.ide.version": "10607",
+  "sketchLocation": "D:\\Arduino\\Li-Fi-Project-using-Arduino\\LiFi_i2c"
+}
