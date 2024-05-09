@@ -1,0 +1,7 @@
+#line 1 "D:\\Arduino\\Li-Fi-Project-using-Arduino\\LiFi_i2c\\.vscode\\arduino.json"
+{
+    "board": "arduino:avr:uno",
+    "programmer": "avrisp",
+    "output": "build",
+    "sketch": "LiFi_i2c.ino"
+}
